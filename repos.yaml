@@ -1,0 +1,13 @@
+repositories:
+  Clearlinux:
+    type: git
+    url: git@github.com:cHolzberger/clearlinux-workspace.git
+    version: master
+  clr-user-bundler:
+    type: git
+    url: https://github.com/clearlinux/clr-user-bundles.git
+    version: master
+  clr-user-bundler-build:
+    type: git
+    url: git@github.com:cHolzberger/clearlinux-user-bundler-build.git
+    version: master

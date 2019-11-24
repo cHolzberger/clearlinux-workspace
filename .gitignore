@@ -12,5 +12,6 @@
 !.yaml
 !.cue
 !.dhall
+!repos.yaml
 !\.tool/setup
 !\.tool/envp
