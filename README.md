@@ -9,4 +9,4 @@ Testing out clr-user-bundler, compiling some packages like lxd, podman and qemu 
 | Note  | URL | 
 |-------|-----|
 | Infos about clr-user-bundles | https://github.com/clearlinux/clr-user-bundles | 
-| | |
+| released version without the mixer part atm |https://clearlinux.org/software/bundle/clr-user-bundles|
