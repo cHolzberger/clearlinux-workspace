@@ -1,0 +1,7 @@
+#!/bin/bash 
+
+DIR=$(dirname $(realpath $0))
+export PATH="$DIRNAME/ghq_linux_amd64:$PATH"
+
+set -o allexport 
+source /usr/share/vcstool-completion/vcs.bash
